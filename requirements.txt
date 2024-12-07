@@ -1,0 +1,6 @@
+REQUIREMENTS :-
+1.opencv-python
+2.pillow
+3.pandas
+4.numpy
+
